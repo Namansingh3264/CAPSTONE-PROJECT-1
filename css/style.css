@@ -52,7 +52,7 @@ html{
 
 #navbar ul li{
     list-style:none;
-    font-size: 1.05rem;
+    font-size: 1.2rem;
 }
 
 #navbar ul li a{
@@ -164,7 +164,8 @@ html{
     position: relative;
     height: 374px;
     margin: 0px 0px;
-    text-align: center;  
+    text-align: center; 
+    scroll-behavior: smooth; 
 }
 
 #About p{ 
