@@ -18,7 +18,7 @@ html{
     align-items: center;
     position:sticky;
     top: 0px;
-}
+} 
 
 #navbar::before{
     content: "";
@@ -164,7 +164,8 @@ html{
     position: relative;
     height: 374px;
     margin: 60px 0px;
-    text-align: center;  
+    text-align: center;
+    z-index: -2;  
 }
 #About-us{
     padding: 30px;
